@@ -1,0 +1,15 @@
+{
+  "name": "node-wwweb-erver",
+  "version": "1.0.0",
+  "description": "node web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hbs": "^4.0.1"
+  }
+}
